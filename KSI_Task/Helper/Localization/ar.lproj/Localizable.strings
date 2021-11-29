@@ -1,0 +1,24 @@
+/*
+   Localizable.strings
+   KSI_Task
+
+   Created by fares elsokary on 12/11/2021.
+ */
+
+
+"Ok" = "موافق";
+"Cancel" = "تراجع";
+"Done" = "تم";
+"Search" = "بحث";
+"Check internet connection" = "تحقق من الإتصال بالإنترنت";
+"Arabic" = "العربية";
+"English" = "الإنجليزية";
+"Please" = "من فضلك";
+"Server error" = "حدث خطأ الرجاء المحاولة مرة اخرى";
+
+//home
+"add to cart" = "اضف الى السلة";
+"discount" = "خصم";
+"Are you looking for a product?" = "هل تبحث عن منتج؟";
+"No data found" = "لاتوجد نتائج";
+"error happen please try again later!" = "حدث خطا حاول مرة اخرى";

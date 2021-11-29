@@ -1,0 +1,6 @@
+framework module Pods_KSI_Task {
+  umbrella header "Pods-KSI_Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
